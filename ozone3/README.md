@@ -18,4 +18,4 @@ The Docker image is based on [openjdk:8-jre-alpine](https://hub.docker.com/_/ope
 
 ## Credits
 
-Credits go to [Unstable-Robert's ozone 3 repository](https://github.com/Unstable-Robert/docker-minecraft-project-ozone-3) which this repository is based on.
+Credits go to [Unstable-Robert's ozone 3 repository](https://github.com/Unstable-Robert/docker-minecraft-project-ozone-3) which this image is based on.
